@@ -1,0 +1,601 @@
+MAFB,HIT,MAFB,9935,Two-hybrid,Low Throughput,15107855,BIOGRID
+MAFB,BAIT,HOXD12,3238,Reconstituted Complex,Low Throughput,11036080,BIOGRID
+MAFB,BAIT,DDB1,1642,Two-hybrid,High Throughput,20211142,BIOGRID
+MAFB,HIT,ZDHHC2,51201,Two-hybrid,High Throughput,20211142,BIOGRID
+MAFB,HIT,ZFP64,55734,Two-hybrid,High Throughput,20211142,BIOGRID
+MAFB,HIT,IRF3,3661,Affinity Capture-Western,Low Throughput,20581830,BIOGRID
+MAFB,HIT,IRF7,3665,Affinity Capture-Western,Low Throughput,20581830,BIOGRID
+MAFB,HIT,IKBKE,9641,Affinity Capture-Western,Low Throughput,20581830,BIOGRID
+MAFB,HIT,BACH1,571,FRET,High Throughput,23661758,BIOGRID
+MAFB,HIT,MAF,4094,FRET,High Throughput,23661758,BIOGRID
+MAFB,HIT,ATF4,468,FRET,High Throughput,23661758,BIOGRID
+MAFB,HIT,FOSL1,8061,FRET,High Throughput,23661758,BIOGRID
+MAFB,HIT,FOS,2353,FRET,High Throughput,23661758,BIOGRID
+MAFB,HIT,ZWINT,11130,Two-hybrid,High Throughput,21988832,BIOGRID
+MAFB,HIT,NCOA6,23054,Affinity Capture-Western,Low Throughput,26180087,BIOGRID
+MAFB,HIT,KDM6A,7403,Affinity Capture-Western,Low Throughput,26180087,BIOGRID
+MAFB,HIT,RBBP5,5929,Affinity Capture-Western,Low Throughput,26180087,BIOGRID
+MAFB,HIT,KAT2B,8850,Affinity Capture-Western,Low Throughput,26180087,BIOGRID
+MAFB,HIT,PAX6,5080,Affinity Capture-Western,Low Throughput,26180087,BIOGRID
+MAFB,HIT,ISL1,3670,Affinity Capture-Western,Low Throughput,26180087,BIOGRID
+HMGB2,BAIT,CSNK1A1,1452,Co-purification,Low Throughput,12062430,BIOGRID
+HMGB2,BAIT,POU2F2,5452,Far Western,Low Throughput,7720710,BIOGRID
+HMGB2,BAIT,POU5F1,5460,Affinity Capture-Western,Low Throughput,11099378,BIOGRID
+HMGB2,HIT,RAG1,5896,Reconstituted Complex,Low Throughput,10490593,BIOGRID
+HMGB2,BAIT,PGR,5241,Reconstituted Complex,Low Throughput,9671457,BIOGRID
+HMGB2,BAIT,NR3C1,2908,Reconstituted Complex,Low Throughput,9671457,BIOGRID
+HMGB2,BAIT,AR,367,Reconstituted Complex,Low Throughput,9671457,BIOGRID
+HMGB2,BAIT,SET,6418,Reconstituted Complex,Low Throughput,11909973,BIOGRID
+HMGB2,BAIT,GZMA,3001,Reconstituted Complex,Low Throughput,11909973,BIOGRID
+HMGB2,BAIT,CREBBP,1387,Biochemical Activity,Low Throughput,15005629,BIOGRID
+HMGB2,BAIT,CHAF1A,10036,Affinity Capture-MS,Low Throughput,21209461,BIOGRID
+HMGB2,BAIT,HMGB1,3146,Affinity Capture-Western,Low Throughput,12517784,BIOGRID
+HMGB2,BAIT,ELAVL1,1994,Affinity Capture-RNA,High Throughput,19322201,BIOGRID
+HMGB2,HIT,BKRF1,3783709,Co-localization,Low Throughput,22345443,BIOGRID
+HMGB2,BAIT,Cebpb,24253,Affinity Capture-Western,High Throughput,22242598,BIOGRID
+HMGB2,BAIT,TFAP4,7023,Affinity Capture-MS,High Throughput,19505873,BIOGRID
+HMGB2,BAIT,CDK2,1017,Affinity Capture-MS,High Throughput,21319273,BIOGRID
+HMGB2,HIT,APP,351,Reconstituted Complex,High Throughput,21832049,BIOGRID
+HMGB2,HIT,SCAF8,22828,Co-fractionation,High Throughput,22939629,BIOGRID
+HMGB2,BAIT,FN1,2335,Affinity Capture-MS,High Throughput,19738201,BIOGRID
+HMGB2,BAIT,GZMK,3003,Biochemical Activity,Low Throughput,17008916,BIOGRID
+HMGB2,HIT,HMGA1,3159,Far Western,Low Throughput,18850631,BIOGRID
+HMGB2,HIT,CKB,1152,Co-fractionation,High Throughput,22863883,BIOGRID
+HMGB2,BAIT,LDHB,3945,Co-fractionation,High Throughput,22863883,BIOGRID
+HMGB2,BAIT,PGD,5226,Co-fractionation,High Throughput,22863883,BIOGRID
+HMGB2,HIT,YWHAG,7532,Co-fractionation,High Throughput,22863883,BIOGRID
+HMGB2,HIT,PKNOX1,5316,Two-hybrid,High Throughput,25416956,BIOGRID
+HMGB2,BAIT,SHMT2,6472,Affinity Capture-RNA,High Throughput,22658674,BIOGRID
+HMGB2,BAIT,MOV10,4343,Affinity Capture-RNA,High Throughput,22658674,BIOGRID
+HMGB2,BAIT,NXF1,10482,Affinity Capture-RNA,High Throughput,22658674,BIOGRID
+HMGB2,BAIT,EED,8726,Affinity Capture-MS,High Throughput,24457600,BIOGRID
+HMGB2,BAIT,SSRP1,6749,Co-fractionation,High Throughput,26344197,BIOGRID
+HMGB2,HIT,SUPT16H,11198,Co-fractionation,High Throughput,26344197,BIOGRID
+HMGB2,BAIT,NTRK1,4914,Affinity Capture-MS,High Throughput,25921289,BIOGRID
+HMGB2,BAIT,HIST1H2BG,8339,Proximity Label-MS,High Throughput,25281560,BIOGRID
+HMGB2,BAIT,CEP19,84984,Proximity Label-MS,High Throughput,26638075,BIOGRID
+HMGB2,BAIT,FLNA,2316,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,MYO1C,4641,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,SYNPO,11346,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,MYO18A,399687,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,CFAP97,57587,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,Cdh1,12550,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,Myh9,17886,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,Coro1c,23790,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,Dctn3,53598,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,Tmed10,68581,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,Calml3,70405,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+HMGB2,BAIT,Mdm2,17246,Affinity Capture-MS,High Throughput,24980433,BIOGRID
+HMGB2,BAIT,U2AF2,11338,Affinity Capture-MS,Low Throughput,26641092,BIOGRID
+HMGB2,HIT,PSMD12,5718,Affinity Capture-Western,Low Throughput,27226596,BIOGRID
+HMGB2,BAIT,EGFR,1956,Affinity Capture-MS,High Throughput,28065597,BIOGRID
+MYBL2,HIT,ZNF622,90441,Two-hybrid,Low Throughput,12645566,BIOGRID
+MYBL2,HIT,CDKN1C,1028,Reconstituted Complex,Low Throughput,12947099,BIOGRID
+MYBL2,BAIT,RBL1,5933,Affinity Capture-Western,Low Throughput,12947099,BIOGRID
+MYBL2,BAIT,E2F1,1869,Two-hybrid,Low Throughput,12748276,BIOGRID
+MYBL2,BAIT,E2F3,1871,Two-hybrid,Low Throughput,12748276,BIOGRID
+MYBL2,BAIT,EP300,2033,Affinity Capture-Western,Low Throughput,11733503,BIOGRID
+MYBL2,HIT,CREBBP,1387,Phenotypic Enhancement,Low Throughput,11423988,BIOGRID
+MYBL2,HIT,PARP1,142,Affinity Capture-Western,Low Throughput,10744766,BIOGRID
+MYBL2,BAIT,CDK2,1017,Biochemical Activity,Low Throughput,11264176,BIOGRID
+MYBL2,BAIT,CCNA1,8900,Affinity Capture-Western,Low Throughput,11264176,BIOGRID
+MYBL2,HIT,MYBL2,4605,Two-hybrid,Low Throughput,10544265,BIOGRID
+MYBL2,HIT,CDK9,1025,Phenotypic Suppression,Low Throughput,10656684,BIOGRID
+MYBL2,HIT,CCNT1,904,Phenotypic Suppression,Low Throughput,10656684,BIOGRID
+MYBL2,BAIT,SKP2,6502,Affinity Capture-Western,Low Throughput,10871850,BIOGRID
+MYBL2,HIT,LZTR1,8216,Two-hybrid,High Throughput,20211142,BIOGRID
+MYBL2,HIT,TRIM15,89870,Two-hybrid,High Throughput,20211142,BIOGRID
+MYBL2,HIT,ZBTB9,221504,Two-hybrid,High Throughput,20211142,BIOGRID
+MYBL2,BAIT,NLK,51701,Affinity Capture-Western,Low Throughput,16055500,BIOGRID
+MYBL2,BAIT,HIPK2,28996,Affinity Capture-Western,Low Throughput,16055500,BIOGRID
+MYBL2,BAIT,LIN54,132660,Affinity Capture-Western,Low Throughput,17531812,BIOGRID
+MYBL2,BAIT,LIN9,286826,Affinity Capture-Western,Low Throughput,17531812,BIOGRID
+MYBL2,BAIT,LIN37,55957,Affinity Capture-Western,Low Throughput,17531812,BIOGRID
+MYBL2,BAIT,LIN52,91750,Affinity Capture-Western,Low Throughput,17531812,BIOGRID
+MYBL2,BAIT,Lin54,231506,Affinity Capture-MS,High Throughput,20360068,BIOGRID
+MYBL2,BAIT,MAPK6,5597,Two-hybrid,High Throughput,21900206,BIOGRID
+MYBL2,BAIT,MAP1LC3B,81631,Two-hybrid,High Throughput,21900206,BIOGRID
+MYBL2,HIT,RBBP4,5928,Affinity Capture-Western,Low Throughput,17671431,BIOGRID
+MYBL2,HIT,FLNA,2316,Affinity Capture-MS,Low Throughput,18548008,BIOGRID
+MYBL2,HIT,SPTA1,6708,Affinity Capture-MS,Low Throughput,18548008,BIOGRID
+MYBL2,HIT,CLTC,1213,Affinity Capture-MS,Low Throughput,18548008,BIOGRID
+MYBL2,HIT,SPTBN1,6711,Affinity Capture-MS,Low Throughput,18548008,BIOGRID
+MYBL2,HIT,CLTA,1211,Affinity Capture-Western,Low Throughput,18548008,BIOGRID
+MYBL2,BAIT,CCNE1,898,Biochemical Activity,Low Throughput,10593981,BIOGRID
+MYBL2,BAIT,CXCR4,7852,Two-hybrid,High Throughput,21988832,BIOGRID
+MYBL2,HIT,UBE2D4,51619,Two-hybrid,High Throughput,21988832,BIOGRID
+MYBL2,BAIT,TTF2,8458,Two-hybrid,Low Throughput,12927788,BIOGRID
+MYBL2,BAIT,EWSR1,2130,Proximity Label-MS,High Throughput,24999758,BIOGRID
+MYBL2,BAIT,CTDSPL2,51496,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+MYBL2,BAIT,NUF2,83540,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+MYBL2,BAIT,PPP2R3C,55012,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+MYBL2,BAIT,ZSCAN26,7741,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+MYBL2,BAIT,Pank4,269614,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+MYBL2,BAIT,TEAD2,8463,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+MYBL2,HIT,CCNF,899,Affinity Capture-Western,Low Throughput,25557911,BIOGRID
+MYBL2,BAIT,FOXM1,2305,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+MYBL2,BAIT,PLA2G4A,5321,Affinity Capture-Western,Low Throughput,14769798,BIOGRID
+MYBL2,BAIT,EPAS1,2034,Affinity Capture-Western,Low Throughput,28394947,BIOGRID
+ID3,BAIT,TCF3,6929,Two-hybrid,Low Throughput,9525934,BIOGRID
+ID3,HIT,TCF4,6925,Two-hybrid,Low Throughput,8999959,BIOGRID
+ID3,HIT,TCF12,6938,Two-hybrid,Low Throughput,9242638,BIOGRID
+ID3,BAIT,MYOD1,4654,Affinity Capture-Western,Low Throughput,9242638,BIOGRID
+ID3,HIT,PAX5,5079,Affinity Capture-Western,Low Throughput,12054881,BIOGRID
+ID3,HIT,GATA4,2626,Affinity Capture-Western,Low Throughput,16556596,BIOGRID
+ID3,HIT,NKX2-5,1482,Affinity Capture-Western,Low Throughput,16556596,BIOGRID
+ID3,BAIT,E2F4,1874,Two-hybrid,High Throughput,20211142,BIOGRID
+ID3,HIT,IKBKG,8517,Two-hybrid,High Throughput,20211142,BIOGRID
+ID3,HIT,SAP30,8819,Two-hybrid,High Throughput,20211142,BIOGRID
+ID3,HIT,CBFA2T2,9139,Two-hybrid,High Throughput,20211142,BIOGRID
+ID3,HIT,PRDM14,63978,Two-hybrid,High Throughput,20211142,BIOGRID
+ID3,BAIT,SMURF2,64750,Biochemical Activity,Low Throughput,21933340,BIOGRID
+ID3,BAIT,CDK2,1017,Biochemical Activity,Low Throughput,9372912,BIOGRID
+ID3,BAIT,ATF3,467,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,CNOT3,4849,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,CSK,1445,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,FHL2,2274,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,GNB2,2783,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,HIT,ID3,3399,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,RND1,27289,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,PUF60,22827,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,MLX,6945,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,ZNF3,7551,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,ZNF408,79797,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,BAIT,ZNF626,199777,Two-hybrid,Low Throughput,18255255,BIOGRID
+ID3,HIT,FAM74A1,401507,Two-hybrid,High Throughput,25416956,BIOGRID
+ID3,BAIT,UNK,85451,Affinity Capture-RNA,High Throughput,25737280,BIOGRID
+ID3,BAIT,SREBF1,6720,Reconstituted Complex,Low Throughput,10585876,BIOGRID
+ID3,HIT,TCEB1,6921,Affinity Capture-Western,High Throughput,26735018,BIOGRID
+ID3,HIT,VHL,7428,Affinity Capture-Western,High Throughput,26735018,BIOGRID
+SOX4,BAIT,SDCBP,6386,Reconstituted Complex,Low Throughput,11498591,BIOGRID
+SOX4,BAIT,tat,155871,Reconstituted Complex,High Throughput,19454010,BIOGRID
+SOX4,BAIT,TP53,7157,Reconstituted Complex,Low Throughput,19234109,BIOGRID
+SOX4,BAIT,MDM2,4193,Affinity Capture-Western,Low Throughput,19234109,BIOGRID
+SOX4,BAIT,EP300,2033,Affinity Capture-Western,Low Throughput,19234109,BIOGRID
+SOX4,BAIT,ELAVL1,1994,Affinity Capture-RNA,High Throughput,19322201,BIOGRID
+SOX4,BAIT,UBE2I,7329,Two-hybrid,Low Throughput,16631117,BIOGRID
+SOX4,HIT,TAF5,6877,Affinity Capture-MS,Low Throughput,23884650,BIOGRID
+SOX4,HIT,TNNI3,7137,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,SCNN1G,6340,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,MINPP1,9562,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,IGF1,3479,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,PLD3,23646,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,CAPN15,6650,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,FOXH1,8928,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,RGSL1,353299,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,LMNB2,84823,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,CTR9,9646,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,ITIH1,3697,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,APOC3,345,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,EDF1,8721,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,NANOGNB,360030,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,MNT,4335,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,PLXNB1,5364,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,RP1L1,94137,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,HIT,BANF1,8815,Two-hybrid,Low Throughput,25969425,BIOGRID
+SOX4,BAIT,RHOU,58480,Reconstituted Complex,High Throughput,26598620,BIOGRID
+SOX4,BAIT,USP15,9958,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SOX4,BAIT,SPAG9,9043,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SOX4,BAIT,MCM2,4171,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SOX4,BAIT,MCM4,4173,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SOX4,BAIT,MCM6,4175,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SOX4,BAIT,EPS15L1,58513,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+FOXP3,HIT,NFATC2,4773,Co-localization,Low Throughput,19564342,BIOGRID
+FOXP3,BAIT,KAT5,10524,Affinity Capture-Western,Low Throughput,17360565,BIOGRID
+FOXP3,BAIT,HDAC7,51564,Affinity Capture-Western,Low Throughput,17360565,BIOGRID
+FOXP3,HIT,HDAC9,9734,Affinity Capture-Western,Low Throughput,17360565,BIOGRID
+FOXP3,BAIT,HDAC2,3066,Co-localization,Low Throughput,19276356,BIOGRID
+FOXP3,BAIT,HDAC4,9759,Co-localization,Low Throughput,19276356,BIOGRID
+FOXP3,BAIT,IKZF4,64375,Affinity Capture-Western,Low Throughput,19696312,BIOGRID
+FOXP3,HIT,REL,5966,Affinity Capture-Luminescence,Low Throughput,21490927,BIOGRID
+FOXP3,BAIT,NFATC1,4772,Affinity Capture-Luminescence,Low Throughput,21490927,BIOGRID
+FOXP3,HIT,KAT8,84148,Reconstituted Complex,Low Throughput,22152480,BIOGRID
+FOXP3,BAIT,HDAC1,3065,Affinity Capture-Western,Low Throughput,21974802,BIOGRID
+FOXP3,HIT,HIST1H1B,3009,Affinity Capture-MS,Low Throughput,21654845,BIOGRID
+FOXP3,HIT,RELA,5970,Affinity Capture-Western,Low Throughput,15790681,BIOGRID
+FOXP3,HIT,RUNX1,861,Affinity Capture-Western,Low Throughput,17377532,BIOGRID
+FOXP3,HIT,GATA3,2625,Affinity Capture-Western,Low Throughput,23395819,BIOGRID
+FOXP3,BAIT,IKZF3,22806,Affinity Capture-Western,Low Throughput,20676092,BIOGRID
+FOXP3,HIT,STUB1,10273,Affinity Capture-Western,Low Throughput,23973223,BIOGRID
+FOXP3,HIT,HSPA1A,3303,Affinity Capture-Western,Low Throughput,23973223,BIOGRID
+FOXP3,BAIT,RBPMS,11030,Two-hybrid,High Throughput,25416956,BIOGRID
+FOXP3,HIT,PRR20A,122183,Two-hybrid,High Throughput,25416956,BIOGRID
+FOXP3,HIT,SIVA1,10572,Two-hybrid,High Throughput,21955384,BIOGRID
+FOXP3,BAIT,EP300,2033,Affinity Capture-Western,Low Throughput,19996091,BIOGRID
+FOXP3,HIT,SIRT1,23411,Affinity Capture-Western,Low Throughput,19996091,BIOGRID
+FOXP3,BAIT,FOXA3,3171,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,FOXP1,27086,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,HOXD13,3239,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,AKAP8,10270,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,FOXP4,116113,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,FUBP3,8939,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ZBTB33,10009,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ESRP2,80004,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NUP133,55746,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NOVA1,4857,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,SATB2,23314,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,CCAR2,57805,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,RALY,22913,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,WRNIP1,56897,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ZBTB34,403341,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ZBTB37,84614,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ZFR,51663,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ADAR,103,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ELP3,55140,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,FOXP2,93986,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,SMC2,10592,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,CDC27,996,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,FEN1,2237,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,HOXC13,3229,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NUP107,57122,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,P4HA1,5033,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,SATB1,6304,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,SUGP2,10147,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,BEND3,57673,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,CENPB,1059,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,HIPK1,204851,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NACC1,112939,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NACC2,138151,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NOVA2,4858,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NRF1,4899,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,NUP160,23279,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,SMC3,9126,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,TFCP2,7024,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,UBP1,7342,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ZNF326,284695,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,USP11,8237,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,ALB,213,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,PSMA5,5686,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,PSMB4,5692,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,BAIT,FOXR1,283150,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+FOXP3,HIT,SMYD2,56950,Affinity Capture-MS,High Throughput,28514442,BIOGRID
+FOXP3,HIT,CDC23,8697,Affinity Capture-MS,High Throughput,28514442,BIOGRID
+HES4,BAIT,PCBD1,5092,Two-hybrid,High Throughput,20211142,BIOGRID
+HES4,HIT,PCBD2,84105,Two-hybrid,High Throughput,20211142,BIOGRID
+HES4,HIT,LTN1,26046,Reconstituted Complex,High Throughput,20195357,BIOGRID
+HES4,HIT,RGS3,5998,Reconstituted Complex,High Throughput,20195357,BIOGRID
+HES4,HIT,COPG2,26958,Reconstituted Complex,High Throughput,20195357,BIOGRID
+HES4,BAIT,SHMT2,6472,Affinity Capture-RNA,High Throughput,22658674,BIOGRID
+IRF8,HIT,COPS2,9318,Two-hybrid,Low Throughput,10991940,BIOGRID
+IRF8,HIT,IRF1,3659,Two-hybrid,Low Throughput,9742224,BIOGRID
+IRF8,BAIT,NFKB1,4790,Reconstituted Complex,Low Throughput,8550813,BIOGRID
+IRF8,BAIT,RELA,5970,Reconstituted Complex,Low Throughput,8550813,BIOGRID
+IRF8,HIT,IRF2,3660,Affinity Capture-Western,Low Throughput,7768900,BIOGRID
+IRF8,HIT,TRIM21,6737,Affinity Capture-MS,Low Throughput,17579016,BIOGRID
+IRF8,HIT,ETV6,2120,Affinity Capture-MS,Low Throughput,17579016,BIOGRID
+IRF8,HIT,IRF8,3394,Affinity Capture-Western,Low Throughput,17579016,BIOGRID
+IRF8,BAIT,TRAF6,7189,Affinity Capture-Western,Low Throughput,16484229,BIOGRID
+IRF8,BAIT,SQSTM1,8878,Affinity Capture-Western,Low Throughput,19201866,BIOGRID
+IRF8,BAIT,IRF6,3664,Affinity Capture-MS,High Throughput,21903422,BIOGRID
+IRF8,HIT,CDK4,1019,Affinity Capture-MS,High Throughput,21903422,BIOGRID
+IRF8,HIT,COPS4,51138,Affinity Capture-MS,High Throughput,21903422,BIOGRID
+IRF8,HIT,COPS5,10987,Affinity Capture-MS,High Throughput,21903422,BIOGRID
+IRF8,HIT,COPS6,10980,Affinity Capture-MS,High Throughput,21903422,BIOGRID
+IRF8,HIT,GPS1,2873,Affinity Capture-MS,High Throughput,21903422,BIOGRID
+IRF8,HIT,MID1,4281,Affinity Capture-MS,High Throughput,21903422,BIOGRID
+IRF8,HIT,CBL,867,Affinity Capture-Western,Low Throughput,15837792,BIOGRID
+IRF8,BAIT,PDGFRB,5159,Affinity Capture-Western,Low Throughput,22262849,BIOGRID
+IRF8,BAIT,ZBTB17,7709,Two-hybrid,Low Throughput,12904288,BIOGRID
+IRF8,BAIT,SPI1,6688,Reconstituted Complex,Low Throughput,9593745,BIOGRID
+IRF8,BAIT,TOP1,7150,Protein-peptide,Low Throughput,12549820,BIOGRID
+IRF8,HIT,USP4,7375,Affinity Capture-Western,Low Throughput,28477415,BIOGRID
+HOPX,HIT,HDAC2,3066,Affinity Capture-Western,Low Throughput,12975471,BIOGRID
+HOPX,BAIT,HOXB9,3219,Two-hybrid,High Throughput,20211142,BIOGRID
+HOPX,BAIT,TLX3,30012,Two-hybrid,High Throughput,20211142,BIOGRID
+HOPX,HIT,ZSCAN1,284312,Two-hybrid,High Throughput,20211142,BIOGRID
+HOPX,BAIT,HSP90AA1,3320,Affinity Capture-Western,Low Throughput,22824801,BIOGRID
+HOPX,BAIT,HSPA4,3308,Affinity Capture-Western,Low Throughput,22824801,BIOGRID
+HOPX,BAIT,EPC1,80314,Two-hybrid,Low Throughput,17192267,BIOGRID
+HOPX,BAIT,TCF12,6938,Two-hybrid,High Throughput,25416956,BIOGRID
+HOPX,BAIT,S100A2,6273,Affinity Capture-Western,Low Throughput,24556685,BIOGRID
+HOPX,HIT,ASUN,55726,Affinity Capture-MS,High Throughput,28514442,BIOGRID
+SUB1,BAIT,CSTF2,1478,Two-hybrid,Low Throughput,11389848,BIOGRID
+SUB1,BAIT,EP300,2033,Biochemical Activity,Low Throughput,11279157,BIOGRID
+SUB1,BAIT,HNF4A,3172,Affinity Capture-Western,Low Throughput,11741883,BIOGRID
+SUB1,HIT,SUB1,10923,Co-crystal Structure,Low Throughput,9360603,BIOGRID
+SUB1,BAIT,SP1,6667,Reconstituted Complex,Low Throughput,9885563,BIOGRID
+SUB1,HIT,PSIP1,11168,Far Western,Low Throughput,9885563,BIOGRID
+SUB1,BAIT,POU2AF1,5450,Reconstituted Complex,Low Throughput,9632764,BIOGRID
+SUB1,HIT,SUB1,855055,Far Western,Low Throughput,19706510,BIOGRID
+SUB1,BAIT,BANF1,8815,Affinity Capture-MS,Low Throughput,19759913,BIOGRID
+SUB1,BAIT,REST,5978,Co-localization,Low Throughput,20080105,BIOGRID
+SUB1,BAIT,RCOR1,23186,Co-localization,Low Throughput,20080105,BIOGRID
+SUB1,BAIT,CBX5,23468,Reconstituted Complex,Low Throughput,20080105,BIOGRID
+SUB1,HIT,POLR2A,5430,Reconstituted Complex,Low Throughput,10024883,BIOGRID
+SUB1,HIT,POLR2B,5431,Reconstituted Complex,Low Throughput,10024883,BIOGRID
+SUB1,BAIT,Kif1c,16562,Affinity Capture-MS,High Throughput,20360068,BIOGRID
+SUB1,BAIT,Shoc2,56392,Affinity Capture-MS,High Throughput,20360068,BIOGRID
+SUB1,BAIT,HDGF,3068,Affinity Capture-MS,High Throughput,21907836,BIOGRID
+SUB1,BAIT,ELAVL1,1994,Affinity Capture-RNA,High Throughput,19322201,BIOGRID
+SUB1,BAIT,GTF3C1,2975,Affinity Capture-Western,Low Throughput,9660958,BIOGRID
+SUB1,BAIT,CDK2,1017,Affinity Capture-MS,High Throughput,21319273,BIOGRID
+SUB1,HIT,APP,351,Reconstituted Complex,High Throughput,21832049,BIOGRID
+SUB1,BAIT,CDC5L,988,Co-fractionation,High Throughput,22939629,BIOGRID
+SUB1,BAIT,RPL18A,6142,Co-fractionation,High Throughput,22939629,BIOGRID
+SUB1,BAIT,LAMP2,3920,Co-fractionation,High Throughput,22939629,BIOGRID
+SUB1,BAIT,SMURF1,57154,Affinity Capture-MS,High Throughput,23184937,BIOGRID
+SUB1,BAIT,FN1,2335,Affinity Capture-MS,High Throughput,19738201,BIOGRID
+SUB1,BAIT,CSNK2A1,1457,Biochemical Activity,High Throughput,22113938,BIOGRID
+SUB1,BAIT,CLK4,57396,Affinity Capture-MS,High Throughput,23602568,BIOGRID
+SUB1,BAIT,rev,155908,Reconstituted Complex,Low Throughput,22174317,BIOGRID
+SUB1,BAIT,HUWE1,10075,Affinity Capture-MS,High Throughput,25147182,BIOGRID
+SUB1,BAIT,ABL1,25,Affinity Capture-MS,High Throughput,25852190,BIOGRID
+SUB1,BAIT,UNK,85451,Affinity Capture-RNA,High Throughput,25737280,BIOGRID
+SUB1,HIT,ABCF1,23,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,CHD5,26038,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,EIF1AX,1964,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,EIF2S2,8894,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,EIF2S3,1968,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,NACA,4666,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,NOLC1,9221,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,POLR3C,10623,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SART1,9092,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SBNO1,55206,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SET,6418,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SRRM2,23524,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SRSF1,6426,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SRSF2,6427,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SRSF6,6431,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,ACIN1,22985,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,ARGLU1,55082,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,CHD4,1108,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,EIF3I,8668,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,HSPA5,3309,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,KPNA1,3836,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,MATR3,9782,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,RANGAP1,5905,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,ST13,6767,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,TP53BP1,7158,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,TROVE2,6738,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,SUPT5H,6829,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,TPM2,7169,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,HIT,TSR1,55720,Co-fractionation,High Throughput,26344197,BIOGRID
+SUB1,BAIT,SFN,2810,Affinity Capture-MS,High Throughput,17361185,BIOGRID
+SUB1,BAIT,Kctd5,69259,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+SUB1,BAIT,MCM2,4171,Affinity Capture-MS,High Throughput,25963833,BIOGRID
+SUB1,BAIT,UBR5,51366,Affinity Capture-MS,Low Throughput,27647897,BIOGRID
+SUB1,BAIT,EGFR,1956,Affinity Capture-MS,High Throughput,28065597,BIOGRID
+SUB1,BAIT,CDC14B,8555,Proximity Label-MS,High Throughput,27880917,BIOGRID
+SUB1,BAIT,FAN1,22909,Affinity Capture-MS,High Throughput,27432908,BIOGRID
+SUB1,HIT,COPZ1,22818,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,SARNP,84324,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,CHORDC1,26973,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,DIS3,22894,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,7-Sep,989,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,PRCC,5546,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,CDK5,1020,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,SH3GLB1,51100,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,SCYL2,55681,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,HIT,DRG1,4733,Affinity Capture-MS,High Throughput,27173435,BIOGRID
+SUB1,BAIT,DLD,1738,Affinity Capture-MS,High Throughput,29128334,BIOGRID
+SUB1,BAIT,DNM1L,10059,Affinity Capture-MS,High Throughput,29128334,BIOGRID
+SUB1,BAIT,TRIM25,7706,Affinity Capture-RNA,High Throughput,29117863,BIOGRID
+SUB1,BAIT,DEAF1,10522,Affinity Capture-Western,Low Throughput,23825960,BIOGRID
+SUB1,BAIT,SP3,6670,Affinity Capture-Western,Low Throughput,23825960,BIOGRID
+ID1,HIT,CASK,8573,Two-hybrid,Low Throughput,15694377,BIOGRID
+ID1,HIT,MYOD1,4654,Two-hybrid,Low Throughput,15029197,BIOGRID
+ID1,BAIT,TCF4,6925,Two-hybrid,Low Throughput,9584154,BIOGRID
+ID1,HIT,TCF12,6938,Two-hybrid,Low Throughput,9242638,BIOGRID
+ID1,HIT,MYF5,4617,Two-hybrid,Low Throughput,9242638,BIOGRID
+ID1,HIT,TCF3,6929,Two-hybrid,Low Throughput,9242638,BIOGRID
+ID1,HIT,GATA4,2626,Affinity Capture-Western,Low Throughput,16556596,BIOGRID
+ID1,HIT,NKX2-5,1482,Affinity Capture-Western,Low Throughput,16556596,BIOGRID
+ID1,HIT,IKBKG,8517,Two-hybrid,High Throughput,20211142,BIOGRID
+ID1,BAIT,SMURF2,64750,Biochemical Activity,Low Throughput,21933340,BIOGRID
+ID1,HIT,PSMD4,5710,Affinity Capture-Western,Low Throughput,17891176,BIOGRID
+ID1,BAIT,HHV8GK18_gp81,4961527,Far Western,High Throughput,22379092,BIOGRID
+ID1,BAIT,CDC20,991,Affinity Capture-Western,Low Throughput,18372912,BIOGRID
+ID1,HIT,FZR1,51343,Affinity Capture-Western,Low Throughput,18372912,BIOGRID
+ID1,BAIT,RASSF1,11186,Affinity Capture-Western,Low Throughput,18372912,BIOGRID
+ID1,HIT,CAV1,857,Two-hybrid,Low Throughput,17855368,BIOGRID
+ID1,HIT,PPP2CA,5515,Affinity Capture-Western,Low Throughput,17855368,BIOGRID
+ID1,BAIT,COPB1,1315,Two-hybrid,High Throughput,21988832,BIOGRID
+ID1,HIT,SUV39H1,6839,Two-hybrid,High Throughput,23455924,BIOGRID
+ID1,BAIT,APPL1,26060,Two-hybrid,High Throughput,25814554,BIOGRID
+ID1,HIT,COL12A1,1303,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,MPP1,4354,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,PSMD5,5711,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,DPF2,5977,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,STXBP1,6812,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,PIAS1,8554,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,MKNK1,8569,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,BUD31,8896,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,CHD1L,9557,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,USP15,9958,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,TXNL4A,10907,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,B4GALT7,11285,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,ERP44,23071,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,ZC3H13,23091,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,POT1,25913,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,CCDC9,26093,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,THOC6,79228,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+ID1,HIT,TCEB1,6921,Affinity Capture-Western,High Throughput,26735018,BIOGRID
+ID1,HIT,VHL,7428,Affinity Capture-Western,High Throughput,26735018,BIOGRID
+ID1,BAIT,DNMT3L,29947,Reconstituted Complex,Low Throughput,24952347,BIOGRID
+KLF4,BAIT,CREBBP,1387,Reconstituted Complex,Low Throughput,10666450,BIOGRID
+KLF4,BAIT,KLF6,1316,Affinity Capture-Western,Low Throughput,10802067,BIOGRID
+KLF4,BAIT,SP1,6667,Reconstituted Complex,Low Throughput,9651398,BIOGRID
+KLF4,BAIT,ELK1,2002,Affinity Capture-Western,Low Throughput,18768922,BIOGRID
+KLF4,HIT,HDAC5,10014,Affinity Capture-Western,Low Throughput,18768922,BIOGRID
+KLF4,HIT,HDAC2,3066,Affinity Capture-Western,Low Throughput,19486889,BIOGRID
+KLF4,HIT,HDAC1,3065,Reconstituted Complex,Low Throughput,15561714,BIOGRID
+KLF4,BAIT,EP300,2033,Reconstituted Complex,Low Throughput,17908689,BIOGRID
+KLF4,HIT,KAT5,10524,Affinity Capture-Western,Low Throughput,17827213,BIOGRID
+KLF4,HIT,HDAC7,51564,Affinity Capture-Western,Low Throughput,17827213,BIOGRID
+KLF4,HIT,SMARCA4,6597,Affinity Capture-Western,Low Throughput,20305087,BIOGRID
+KLF4,HIT,PPARG,5468,Affinity Capture-Western,Low Throughput,22282354,BIOGRID
+KLF4,HIT,RELA,5970,Affinity Capture-Western,Low Throughput,22282354,BIOGRID
+KLF4,BAIT,PRKCD,5580,Affinity Capture-Western,Low Throughput,22282354,BIOGRID
+KLF4,HIT,VHL,7428,Affinity Capture-Western,Low Throughput,22284679,BIOGRID
+KLF4,HIT,CUL2,8453,Affinity Capture-Western,Low Throughput,22284679,BIOGRID
+KLF4,HIT,TCEB2,6923,Affinity Capture-Western,Low Throughput,22284679,BIOGRID
+KLF4,HIT,APP,351,Reconstituted Complex,High Throughput,21832049,BIOGRID
+KLF4,HIT,CTBP1,1487,Affinity Capture-Western,Low Throughput,19751731,BIOGRID
+KLF4,BAIT,SETD7,80854,Biochemical Activity,Low Throughput,25042802,BIOGRID
+KLF4,HIT,CDH1,999,Affinity Capture-Western,Low Throughput,21177849,BIOGRID
+KLF4,BAIT,AURKA,6790,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+KLF4,BAIT,Mbd2,17191,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+KLF4,BAIT,Ppp2r2d,52432,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+KLF4,BAIT,Nrip3,78593,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+KLF4,BAIT,Bag2,213539,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+KLF4,BAIT,Spire2,234857,Affinity Capture-MS,High Throughput,26496610,BIOGRID
+KLF4,HIT,FBXO22,26263,Affinity Capture-MS,High Throughput,26087183,BIOGRID
+KLF4,HIT,CUL1,8454,Affinity Capture-MS,High Throughput,26087183,BIOGRID
+KLF4,HIT,SKP1,6500,Affinity Capture-MS,High Throughput,26087183,BIOGRID
+KLF4,BAIT,HUWE1,10075,Biochemical Activity,Low Throughput,28084302,BIOGRID
+KLF4,HIT,FBXO32,114907,Affinity Capture-Western,Low Throughput,28068319,BIOGRID
+KLF4,BAIT,BAALC,79870,Two-hybrid,Low Throughput,26050649,BIOGRID
+TCF7L2,BAIT,NLK,51701,Affinity Capture-Western,Low Throughput,12556497,BIOGRID
+TCF7L2,HIT,JUP,3728,Reconstituted Complex,Low Throughput,11711551,BIOGRID
+TCF7L2,HIT,PSEN1,5663,Affinity Capture-Western,Low Throughput,11504726,BIOGRID
+TCF7L2,BAIT,DAZAP2,9802,Two-hybrid,Low Throughput,19304756,BIOGRID
+TCF7L2,HIT,CTNNB1,1499,Affinity Capture-Western,Low Throughput,19304756,BIOGRID
+TCF7L2,BAIT,CTBP1,1487,Reconstituted Complex,Low Throughput,12711682,BIOGRID
+TCF7L2,BAIT,PARP1,142,Affinity Capture-Western,Low Throughput,17283121,BIOGRID
+TCF7L2,HIT,XRCC6,2547,Affinity Capture-Western,Low Throughput,17283121,BIOGRID
+TCF7L2,HIT,XRCC5,7520,Affinity Capture-Western,Low Throughput,17283121,BIOGRID
+TCF7L2,BAIT,ELAVL1,1994,Affinity Capture-RNA,High Throughput,19322201,BIOGRID
+TCF7L2,HIT,MAD2L2,10459,Two-hybrid,Low Throughput,19443654,BIOGRID
+TCF7L2,BAIT,ZBTB33,10009,Reconstituted Complex,Low Throughput,21670201,BIOGRID
+TCF7L2,HIT,DAXX,1616,Affinity Capture-Western,Low Throughput,16569639,BIOGRID
+TCF7L2,BAIT,FBLN1,2192,Two-hybrid,High Throughput,21988832,BIOGRID
+TCF7L2,HIT,UBE2I,7329,Two-hybrid,High Throughput,21988832,BIOGRID
+TCF7L2,BAIT,PSMA3,5684,Two-hybrid,High Throughput,21988832,BIOGRID
+TCF7L2,BAIT,PML,5371,Affinity Capture-Western,Low Throughput,22155184,BIOGRID
+TCF7L2,BAIT,MEN1,4221,Affinity Capture-Western,Low Throughput,19074834,BIOGRID
+TCF7L2,BAIT,USP4,7375,Reconstituted Complex,Low Throughput,20141612,BIOGRID
+TCF7L2,HIT,HBP1,26959,Affinity Capture-Western,Low Throughput,11500377,BIOGRID
+TCF7L2,BAIT,Ctnnb1,12387,Reconstituted Complex,Low Throughput,12417018,BIOGRID
+TCF7L2,BAIT,AR,367,Reconstituted Complex,Low Throughput,12799378,BIOGRID
+TCF7L2,BAIT,FUS,2521,Affinity Capture-Western,Low Throughput,16230076,BIOGRID
+TCF7L2,HIT,CDC73,79577,Affinity Capture-Western,Low Throughput,16630820,BIOGRID
+TCF7L2,BAIT,RNF138,51444,Biochemical Activity,Low Throughput,16714285,BIOGRID
+TCF7L2,BAIT,HIC1,3090,Reconstituted Complex,Low Throughput,16724116,BIOGRID
+TCF7L2,HIT,EP300,2033,Affinity Capture-Western,Low Throughput,17050667,BIOGRID
+TCF7L2,BAIT,SMAD7,4092,Affinity Capture-Western,Low Throughput,15684397,BIOGRID
+TCF7L2,BAIT,SETD8,387893,Affinity Capture-Western,Low Throughput,21282610,BIOGRID
+TCF7L2,HIT,LEF1,51176,Affinity Capture-Western,Low Throughput,24748645,BIOGRID
+TCF7L2,HIT,RNF43,54894,Affinity Capture-Western,Low Throughput,26350900,BIOGRID
+TCF7L2,HIT,TLE3,7090,Reconstituted Complex,Low Throughput,22304967,BIOGRID
+TCF7L2,HIT,XIAP,331,Reconstituted Complex,Low Throughput,22304967,BIOGRID
+TCF7L2,BAIT,IKZF5,64376,Affinity Capture-MS,High Throughput,28514442,BIOGRID
+TCF7L2,HIT,PRMT6,55170,Affinity Capture-MS,High Throughput,28514442,BIOGRID
+TCF7L2,BAIT,UHRF2,115426,Affinity Capture-MS,High Throughput,27114453,BIOGRID
+ATF3,HIT,JUN,3725,Affinity Capture-Western,Low Throughput,14667575,BIOGRID
+ATF3,HIT,SMAD3,4088,Affinity Capture-Western,Low Throughput,12718878,BIOGRID
+ATF3,HIT,IGSF21,84966,Two-hybrid,High Throughput,16169070,BIOGRID
+ATF3,HIT,LRIF1,55791,Two-hybrid,High Throughput,16169070,BIOGRID
+ATF3,BAIT,FGFR3,2261,Two-hybrid,High Throughput,16169070,BIOGRID
+ATF3,HIT,TP53,7157,Two-hybrid,High Throughput,16169070,BIOGRID
+ATF3,HIT,JUND,3727,Reconstituted Complex,Low Throughput,8152431,BIOGRID
+ATF3,BAIT,DDIT3,1649,Affinity Capture-Western,Low Throughput,8622660,BIOGRID
+ATF3,BAIT,ATF4,468,Affinity Capture-Western,Low Throughput,19164757,BIOGRID
+ATF3,BAIT,MDM2,4193,Reconstituted Complex,Low Throughput,15933712,BIOGRID
+ATF3,HIT,POLR3D,661,Two-hybrid,High Throughput,20211142,BIOGRID
+ATF3,HIT,ATF2,1386,Two-hybrid,High Throughput,20211142,BIOGRID
+ATF3,HIT,SS18L1,26039,Two-hybrid,High Throughput,20211142,BIOGRID
+ATF3,HIT,SMARCA4,6597,Affinity Capture-Western,Low Throughput,14673171,BIOGRID
+ATF3,HIT,RELA,5970,Reconstituted Complex,Low Throughput,16291753,BIOGRID
+ATF3,HIT,CEBPE,1053,Co-localization,Low Throughput,17042743,BIOGRID
+ATF3,HIT,HDAC1,3065,Affinity Capture-Western,Low Throughput,20360311,BIOGRID
+ATF3,BAIT,CEBPB,1051,Affinity Capture-Western,Low Throughput,20110283,BIOGRID
+ATF3,BAIT,GSK3B,2932,Affinity Capture-Western,Low Throughput,20110283,BIOGRID
+ATF3,HIT,SMAD2,4087,Affinity Capture-Western,Low Throughput,20930144,BIOGRID
+ATF3,HIT,CREBBP,1387,Affinity Capture-Western,Low Throughput,19932681,BIOGRID
+ATF3,BAIT,STAT1,6772,Affinity Capture-Western,Low Throughput,19647793,BIOGRID
+ATF3,HIT,PDX1,3651,Affinity Capture-Western,Low Throughput,21986529,BIOGRID
+ATF3,HIT,ACTB,60,Affinity Capture-Western,Low Throughput,21300803,BIOGRID
+ATF3,HIT,HDAC6,10013,Two-hybrid,Low Throughput,22989952,BIOGRID
+ATF3,BAIT,HDAC10,83933,Affinity Capture-Western,Low Throughput,22989952,BIOGRID
+ATF3,BAIT,HDAC4,9759,Reconstituted Complex,Low Throughput,22989952,BIOGRID
+ATF3,BAIT,HDAC5,10014,Reconstituted Complex,Low Throughput,22989952,BIOGRID
+ATF3,BAIT,HDAC3,8841,Reconstituted Complex,Low Throughput,22989952,BIOGRID
+ATF3,HIT,ATF3,467,Two-hybrid,Low Throughput,18255255,BIOGRID
+ATF3,HIT,FHL2,2274,Two-hybrid,Low Throughput,18255255,BIOGRID
+ATF3,HIT,ID3,3399,Two-hybrid,Low Throughput,18255255,BIOGRID
+ATF3,BAIT,ZNF212,7988,Two-hybrid,Low Throughput,18255255,BIOGRID
+ATF3,HIT,SRA1,10011,Far Western,Low Throughput,20398657,BIOGRID
+ATF3,BAIT,HSP90AA1,3320,Affinity Capture-Luminescence,Low Throughput,22939624,BIOGRID
+ATF3,BAIT,MAFG,4097,FRET,High Throughput,23661758,BIOGRID
+ATF3,BAIT,MAFF,23764,FRET,High Throughput,23661758,BIOGRID
+ATF3,BAIT,BATF3,55509,FRET,High Throughput,23661758,BIOGRID
+ATF3,BAIT,BATF,10538,FRET,High Throughput,23661758,BIOGRID
+ATF3,HIT,FOSL1,8061,FRET,High Throughput,23661758,BIOGRID
+ATF3,HIT,FOS,2353,FRET,High Throughput,23661758,BIOGRID
+ATF3,HIT,JUNB,3726,FRET,High Throughput,23661758,BIOGRID
+ATF3,HIT,CEBPA,1050,FRET,High Throughput,23661758,BIOGRID
+ATF3,HIT,CEBPG,1054,FRET,High Throughput,23661758,BIOGRID
+ATF3,BAIT,DBP,1628,FRET,High Throughput,23661758,BIOGRID
+ATF3,BAIT,CREB3,10488,FRET,High Throughput,23661758,BIOGRID
+ATF3,HIT,SUV39H1,6839,Two-hybrid,High Throughput,23455924,BIOGRID
+ATF3,BAIT,UBE2I,7329,Biochemical Activity,Low Throughput,22991139,BIOGRID
+ATF3,BAIT,SH2D1A,4068,Two-hybrid,High Throughput,25814554,BIOGRID
+ATF3,BAIT,APPL2,55198,Two-hybrid,High Throughput,25814554,BIOGRID
+ATF3,BAIT,CRK,1398,Two-hybrid,High Throughput,25814554,BIOGRID
+ATF3,BAIT,DOK5,55816,Two-hybrid,High Throughput,25814554,BIOGRID
+ATF3,BAIT,STAT3,6774,Two-hybrid,High Throughput,25814554,BIOGRID
+ATF3,BAIT,EWSR1,2130,Proximity Label-MS,High Throughput,24999758,BIOGRID
+ATF3,BAIT,MEF2A,4205,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+ATF3,BAIT,NFATC1,4772,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+ATF3,BAIT,TEAD2,8463,Affinity Capture-MS,High Throughput,25609649,BIOGRID
+ATF3,HIT,KAT5,10524,Affinity Capture-Western,Low Throughput,25865756,BIOGRID
+ATF3,BAIT,DNMT3L,29947,Reconstituted Complex,Low Throughput,24952347,BIOGRID
+ATF3,BAIT,TRIM25,7706,Affinity Capture-RNA,High Throughput,29117863,BIOGRID
+ATF3,BAIT,TP63,8626,Affinity Capture-Western,Low Throughput,24554706,BIOGRID
+SPIB,BAIT,E2F1,1869,Two-hybrid,Low Throughput,12748276,BIOGRID
+SPIB,BAIT,E2F2,1870,Two-hybrid,Low Throughput,12748276,BIOGRID
+SPIB,BAIT,E2F3,1871,Two-hybrid,Low Throughput,12748276,BIOGRID
+SPIB,BAIT,E2F4,1874,Two-hybrid,Low Throughput,12748276,BIOGRID
+SPIB,BAIT,CSNK2A1,1457,Biochemical Activity,Low Throughput,8632909,BIOGRID
+SPIB,HIT,MAPK3,5595,Co-purification,Low Throughput,8632909,BIOGRID
+SPIB,HIT,MAPK8,5599,Co-purification,Low Throughput,8632909,BIOGRID
+SPIB,HIT,SPIB,6689,Reconstituted Complex,Low Throughput,10196196,BIOGRID
+SPIB,HIT,TBP,6908,Reconstituted Complex,Low Throughput,10196196,BIOGRID
+SPIB,HIT,SPI1,6688,Reconstituted Complex,Low Throughput,10196196,BIOGRID
+SPIB,HIT,JUN,3725,Reconstituted Complex,Low Throughput,10196196,BIOGRID
+SPIB,BAIT,GATA1,2623,Reconstituted Complex,Low Throughput,10364157,BIOGRID
+SPIB,HIT,SSB,6741,Two-hybrid,High Throughput,21988832,BIOGRID
+SPIB,HIT,TMEM37,140738,Two-hybrid,High Throughput,21988832,BIOGRID
+SPIB,HIT,Crebbp,12914,Reconstituted Complex,Low Throughput,11864910,BIOGRID
+SPIB,HIT,EP300,2033,Reconstituted Complex,Low Throughput,11864910,BIOGRID
+SPI1,BAIT,CSNK2A1,1457,Biochemical Activity,Low Throughput,8632909,BIOGRID
+SPI1,BAIT,MAPK8,5599,Biochemical Activity,Low Throughput,8632909,BIOGRID
+SPI1,HIT,CREM,1390,Reconstituted Complex,Low Throughput,7730336,BIOGRID
+SPI1,HIT,ATF1,466,Reconstituted Complex,Low Throughput,7730336,BIOGRID
+SPI1,HIT,ETS1,2113,Reconstituted Complex,Low Throughput,9681824,BIOGRID
+SPI1,HIT,ETS2,2114,Reconstituted Complex,Low Throughput,9681824,BIOGRID
+SPI1,HIT,ETV1,2115,Reconstituted Complex,Low Throughput,9681824,BIOGRID
+SPI1,HIT,FOS,2353,Reconstituted Complex,Low Throughput,9681824,BIOGRID
+SPI1,HIT,JUN,3725,Reconstituted Complex,Low Throughput,9681824,BIOGRID
+SPI1,BAIT,CEBPB,1051,Reconstituted Complex,Low Throughput,7594592,BIOGRID
+SPI1,HIT,GATA2,2624,Affinity Capture-Western,Low Throughput,10411939,BIOGRID
+SPI1,HIT,FUS,2521,Co-purification,Low Throughput,9478924,BIOGRID
+SPI1,BAIT,SPIB,6689,Reconstituted Complex,Low Throughput,10196196,BIOGRID
+SPI1,BAIT,NONO,4841,Reconstituted Complex,Low Throughput,8626664,BIOGRID
+SPI1,HIT,MITF,4286,Reconstituted Complex,Low Throughput,9918847,BIOGRID
+SPI1,BAIT,IRF4,3662,Reconstituted Complex,Low Throughput,10022840,BIOGRID
+SPI1,BAIT,NFYA,4800,Reconstituted Complex,Low Throughput,9668064,BIOGRID
+SPI1,BAIT,CEBPA,1050,Affinity Capture-Western,Low Throughput,12091339,BIOGRID
+SPI1,BAIT,MECP2,4204,Affinity Capture-Western,Low Throughput,14647463,BIOGRID
+SPI1,BAIT,HDAC1,3065,Affinity Capture-Western,Low Throughput,14647463,BIOGRID
+SPI1,HIT,DNMT3A,1788,Affinity Capture-Western,Low Throughput,16331260,BIOGRID
+SPI1,HIT,DNMT3B,1789,Affinity Capture-Western,Low Throughput,16331260,BIOGRID
+SPI1,HIT,BCL6,604,Affinity Capture-Western,Low Throughput,19564417,BIOGRID
+SPI1,BAIT,TBP,6908,Affinity Capture-Western,Low Throughput,11593411,BIOGRID
+SPI1,HIT,SIN3A,25942,Affinity Capture-Western,Low Throughput,11593411,BIOGRID
+SPI1,HIT,SKI,6497,Affinity Capture-Western,Low Throughput,17621263,BIOGRID
+SPI1,BAIT,HDAC3,8841,Affinity Capture-Western,Low Throughput,17621263,BIOGRID
+SPI1,HIT,RARA,5914,Co-localization,Low Throughput,20159610,BIOGRID
+SPI1,BAIT,PML,5371,Affinity Capture-Western,Low Throughput,20159610,BIOGRID
+SPI1,BAIT,GATA1,2623,Affinity Capture-Western,Low Throughput,12202480,BIOGRID
+SPI1,HIT,BYRF1,3783761,Affinity Capture-Western,Low Throughput,21504384,BIOGRID
+SPI1,HIT,IRF1,3659,Reconstituted Complex,Low Throughput,9593745,BIOGRID
+SPI1,HIT,IRF8,3394,Reconstituted Complex,Low Throughput,9593745,BIOGRID
+SPI1,BAIT,RB1,5925,Reconstituted Complex,Low Throughput,8434021,BIOGRID
+SPI1,BAIT,GFI1,2672,Affinity Capture-Western,Low Throughput,17197705,BIOGRID
+SPI1,BAIT,VAV1,7409,Affinity Capture-Western,Low Throughput,19747912,BIOGRID
+SPI1,HIT,GATA3,2625,Reconstituted Complex,Low Throughput,10364157,BIOGRID
+SPI1,HIT,HOXA10,3206,Affinity Capture-Western,Low Throughput,18692240,BIOGRID
+SPI1,HIT,TMX1,81542,Two-hybrid,High Throughput,21988832,BIOGRID
+SPI1,HIT,Crebbp,12914,Reconstituted Complex,Low Throughput,11864910,BIOGRID
+SPI1,BAIT,RUNX1,861,Reconstituted Complex,Low Throughput,10207087,BIOGRID

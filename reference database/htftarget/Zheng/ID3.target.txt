@@ -1,0 +1,2 @@
+TF_name	target_id	target_name	target_synonyms
+ID3	ENSG00000112972	HMGCS1	HMGCS

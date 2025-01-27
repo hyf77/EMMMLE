@@ -1,0 +1,16 @@
+Package: EMMMLE
+Type: Package
+Title: EMMMLE: Network inference for mixture Poisson Log-Normal graphial model in gene regulatory network
+Version: 0.1.1
+Author: Yufei Huang, Changhu Wang, Junjie Tang, Feiyi Xiao, Ruibin Xi
+Maintainer: Yufei Huang <2301213073@stu.pku.edu.cn>
+Description: EMMMLE is a package for estimating the precision matrix of mixture Poisson Log-Normal model
+License: GPL (>= 3)
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.4.6), MASS, CVXR, Seurat, cluster,
+        stats,orthopolynom
+LinkingTo: Rcpp, RcppArmadillo, RcppEigen, MASS, CVXR, orthopolynom
+Depends: R (>= 3.5.0)
+Suggests: testthat (>= 3.0.0)
+NeedsCompilation: yes
+Packaged: 2025-01-20 15:34:14 UTC; fei

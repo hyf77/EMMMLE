@@ -1,0 +1,57 @@
+# sigma_moment
+sigma_moment<-function(data_use,S_depth){
+  ##1. Calculate the sample covariance matrix by moment method----------------
+  alpha_1<-colMeans(data_use/S_depth)
+  Y_tlide<-data_use/S_depth
+  sigma_me<-log(((t(Y_tlide) %*% Y_tlide)/nrow(data_use))/(matrix(alpha_1,ncol = 1) %*% matrix(alpha_1,nrow = 1)))
+  diag(sigma_me)<-log(colMeans((data_use^2-data_use)/matrix(rep(S_depth^2,each=ncol(data_use)),nrow = nrow(data_use),byrow = TRUE))/alpha_1^2)
+  rm(alpha_1,Y_tlide)
+  ###################################
+
+  ##2. Handle the abnormal situation of sample covariance matrix------------------
+  allzero_set<-which(colSums(data_use) == 0)
+  zero_plus_one_set<-setdiff(which(colSums(ifelse(data_use>=2,1,0)) == 0),allzero_set)
+  choose_index<-setdiff(1:ncol(data_use),allzero_set)
+  sigma_me1<-sigma_me[choose_index,choose_index]
+  diag(sigma_me1)[which(choose_index %in% zero_plus_one_set)]<-0
+
+  isinfinite_mat<-ifelse(is.infinite(sigma_me1),1,0)
+  isinfinite_mat[lower.tri(isinfinite_mat)]<-0
+  min_vec<-rep(NA,ncol(sigma_me1))
+  for(i in 1:ncol(sigma_me1)){
+    min_vec[i] <- min(sigma_me1[i,-i][is.finite(c(sigma_me1[i,-i]))])
+  }
+  for(i in 1:(ncol(sigma_me1)-1)){
+    index_select<-which(isinfinite_mat[i,]==1)
+    index_select<-index_select[which(index_select>i)]
+    if(length(index_select)>0){
+      for(j in 1:length(index_select)){
+        isinfinite_mat[i,index_select[j]]<-min(min_vec[i],min_vec[index_select[j]])
+      }
+    }
+  }
+  isinfinite_mat<-isinfinite_mat + t(isinfinite_mat)
+  diag(isinfinite_mat)<-0
+  sigma_me1<-ifelse(is.infinite(sigma_me1),0,sigma_me1)
+  sigma_me1<-sigma_me1 + isinfinite_mat
+  rm(isinfinite_mat)
+  ################################
+
+  ##3. Optimatization by minimize the finite norm--------------------
+  S<-Variable(dim(sigma_me1)[1], dim(sigma_me1)[1], PSD = TRUE)
+
+  obj<-Minimize(max(abs(S-sigma_me1)))
+
+  prob <- CVXR::Problem(obj)
+
+  result <- CVXR::solve(prob,solver="SCS",verbose=FALSE)
+  sigma_me2 <- result$getValue(S)
+  sigma_me2<-max(abs(sigma_me2-sigma_me1))* diag(ncol(sigma_me1)) + sigma_me2
+  sigma_me3<-matrix(0,ncol = ncol(data_use),nrow = ncol(data_use))
+  sigma_me3[choose_index,choose_index]<-sigma_me2
+  rm(sigma_me,S);
+  ########################################
+
+  ##
+  return(sigma_me3)
+}

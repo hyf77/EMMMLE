@@ -1,0 +1,260 @@
+[
+    {
+        "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+        "file_last_write": 1737955573.0,
+        "definitions": [
+            {
+                "usr": "c:@F@log_cul_mat_fun2#$@N@arma@S@Mat>#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "log_cul_mat_fun2(arma::mat, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 20,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@likelihood_weight#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S0_#S1_#S1_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "likelihood_weight(arma::mat, arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 40,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@log_likelihood_fun#$@N@arma@S@Mat>#d#S0_#$@N@arma@S@Cube>#d#$@N@arma@S@Col>#d#S2_#S2_#S2_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "log_likelihood_fun(arma::mat, arma::mat, arma::cube, arma::vec, arma::vec, arma::vec, arma::vec)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 140,
+                "column": 8,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@compute_weight_Z#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Cube>#d#S1_#S1_#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "compute_weight_Z(arma::mat, arma::vec, arma::mat, arma::cube, arma::vec, arma::vec, arma::vec)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 174,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EMMMLE_weighted_step1#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S1_#S0_#S1_#S1_#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EMMMLE_weighted_step1(arma::mat, arma::vec, arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, int, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 215,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EMMMLE_weighted_step2#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S0_#S1_#S0_#S1_#S1_#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EMMMLE_weighted_step2(arma::mat, arma::vec, arma::vec, arma::mat, arma::vec, arma::mat, arma::vec, arma::vec, int, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 405,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EMMMLE_sigma12_fun#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S1_#S0_#S1_#S1_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EMMMLE_sigma12_fun(arma::mat, arma::vec, arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 601,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@basic_EMMMLE#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "basic_EMMMLE(arma::mat, arma::vec, arma::vec, arma::mat, arma::mat, arma::mat, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 793,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EMMMLE_newton_fun#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S1_#S0_#S1_#S1_#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EMMMLE_newton_fun(arma::mat, arma::vec, arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, int, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 853,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EMMMLE_main#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Cube>#d#S1_#S1_#S1_#I#d#S0_#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EMMMLE_main(arma::mat, arma::vec, arma::mat, arma::cube, arma::vec, arma::vec, arma::vec, int, double, arma::mat, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 898,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EMMMLE#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S0_#$@N@arma@S@Cube>#d#S1_#S1_#S1_#S0_#I#S0_#I#d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EMMMLE(arma::mat, arma::vec, arma::mat, arma::cube, arma::vec, arma::vec, arma::vec, arma::mat, int, arma::mat, int, double, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/EMMMLE.cpp",
+                "line": 959,
+                "column": 12,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/fei/Documents/open/EMMMLE/src/Update_Z.cpp",
+        "file_last_write": 1722865097.0,
+        "definitions": [
+            {
+                "usr": "c:@F@Update_log_cond_prob_X#$@N@Eigen@S@Matrix>#d#VI-1#VI1#VI0#VI-1#VI1#$@N@Eigen@S@Matrix>#d#VI-1#VI-1#VI0#VI-1#VI-1#S1_#S1_#d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Update_log_cond_prob_X(Eigen::VectorXd, Eigen::MatrixXd, Eigen::MatrixXd, Eigen::MatrixXd, double, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/Update_Z.cpp",
+                "line": 22,
+                "column": 17,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/fei/Documents/open/EMMMLE/src/equal.cpp",
+        "file_last_write": 1737379622.0,
+        "definitions": [
+            {
+                "usr": "c:@F@soft#$@N@arma@S@Mat>#d#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "soft(arma::mat, arma::mat, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/equal.cpp",
+                "line": 13,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@equal1#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S0_#S0_#d#I#d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "equal1(arma::mat, arma::vec, arma::mat, arma::mat, double, int, double, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/equal.cpp",
+                "line": 24,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@equal2#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S0_#S0_#d#I#d#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "equal2(arma::mat, arma::vec, arma::Mat<double>, arma::mat, double, int, double, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/equal.cpp",
+                "line": 89,
+                "column": 12,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+        "file_last_write": 1737380158.0,
+        "definitions": [
+            {
+                "usr": "c:@F@log_cul_mat_fun1#$@N@Eigen@S@SparseMatrix>#I#VI0#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "log_cul_mat_fun1(Eigen::SparseMatrix<int>)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 21,
+                "column": 29,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@mmle_weighted_step1#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S1_#S0_#S1_#S1_#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mmle_weighted_step1(arma::mat, arma::vec, arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, int, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 47,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@mmle_weighted_step2#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S1_#S0_#S1_#S0_#S1_#S1_#I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mmle_weighted_step2(arma::mat, arma::vec, arma::vec, arma::vec, arma::mat, arma::vec, arma::mat, arma::vec, arma::vec, int, int, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 245,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@Update_sigma12_fun#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S1_#S0_#S1_#S1_#I#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "Update_sigma12_fun(arma::mat, arma::vec, arma::vec, arma::vec, arma::mat, arma::vec, arma::vec, int, arma::mat)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 440,
+                "column": 12,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@basic_mmle#$@N@arma@S@Mat>#d#$@N@arma@S@Col>#d#S1_#S0_#S0_#S0_#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "basic_mmle(arma::mat, arma::vec, arma::vec, arma::mat, arma::mat, arma::mat, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 640,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EigenToArma_mat#$@N@Eigen@S@Matrix>#d#VI-1#VI-1#VI0#VI-1#VI-1#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EigenToArma_mat(Eigen::MatrixXd)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 704,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@EigenToArma_vec#$@N@Eigen@S@Matrix>#d#VI-1#VI1#VI0#VI-1#VI1#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "EigenToArma_vec(Eigen::VectorXd)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 709,
+                "column": 11,
+                "hidden": false
+            },
+            {
+                "usr": "c:@F@mmle_newton_fun#$@N@Eigen@S@Matrix>#d#VI-1#VI-1#VI0#VI-1#VI-1#$@N@Eigen@S@Matrix>#d#VI-1#VI1#VI0#VI-1#VI1#S1_#S1_#S0_#S1_#S1_#I#I#$@N@arma@S@Mat>#d#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mmle_newton_fun(Eigen::MatrixXd, Eigen::VectorXd, Eigen::VectorXd, Eigen::VectorXd, Eigen::MatrixXd, Eigen::VectorXd, Eigen::VectorXd, int, int, arma::mat, int)",
+                "file": "/Users/fei/Documents/open/EMMMLE/src/mmle_fun.cpp",
+                "line": 715,
+                "column": 12,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]
